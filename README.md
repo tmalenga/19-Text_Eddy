@@ -14,6 +14,8 @@ N/A
   - Download a version of the application
   - Work with the application offline
   - Updates the changes made offline once the user logs in again
+  - See screenshot of online version ![here](1.png)
+  - See screenshot of installed offline version ![here](2.png)
 
 ## Credits
 
